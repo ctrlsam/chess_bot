@@ -1,0 +1,7 @@
+opencv-python
+chess
+numpy
+pyautogui
+colorama
+stockfish
+keyboard
